@@ -1,16 +1,40 @@
-## Hi there 👋
+# Olá, meu nome é Ariel ⭐ 😎
 
-<!--
-**eorieeel/eorieeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu **GitHub** 👨‍💻
 
-Here are some ideas to get you started:
+Estou em busca de uma oportunidade para crescer profissionalmente como desenvolvedor Front-end.  
+Tenho conhecimento em **HTML, CSS** e **JavaScript**, e estou sempre praticando e evoluindo minhas habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Atualmente estudando e desenvolvendo projetos com foco em Front-end.
+- 🚀 Meu objetivo é conseguir minha primeira oportunidade na área.
+- 📚 Em constante aprendizado e evolução.
+
+---
+
+### 🚀 Tecnologias que utilizo
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+</p>
+
+---
+
+### 📊 Minhas estatísticas no GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eorieeel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eorieeel&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+---
+
+### 📫 Como entrar em contato comigo:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arielmendes07/)  
+[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://arielmendesdev.vercel.app/)
+
+---
+
+⭐ Obrigado por visitar meu perfil!
