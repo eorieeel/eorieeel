@@ -32,8 +32,8 @@ Tenho conhecimento em **HTML, CSS** e **JavaScript**, e estou sempre praticando 
 
 ### 📫 Como entrar em contato comigo:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arielmendes07/)  
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://arielmendesdev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arielmendes07/) [![Vercel](https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://arielmendesdev.vercel.app/)
+
 
 ---
 
