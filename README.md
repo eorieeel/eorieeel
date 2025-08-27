@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu **GitHub** 👨‍💻
 
-Estou em busca de uma oportunidade para crescer profissionalmente como desenvolvedor Full-Stack
+Estou em busca de uma oportunidade para crescer profissionalmente como desenvolvedor Front-end
 Tenho conhecimento em **HTML, CSS** e **JavaScript**, e estou sempre praticando e evoluindo minhas habilidades.
 
 - 💻 Atualmente estudando e desenvolvendo projetos com foco em Front-end.
